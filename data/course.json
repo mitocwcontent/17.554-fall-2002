@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Society",
+      "Latin and Caribbean Studies"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Social Welfare"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "Comparative Politics"
+    ]
+  ],
+  "legacy_uid": "d7d0c77d-34e0-7cfd-0624-f67615fddfd4",
+  "instructors": {
+    "content": [
+      "ce86032f-5132-e821-cd04-f268905fb61d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9db9cd60-f170-cb2e-dd30-977d483ab76b",
+    "website": "17-554-political-economy-of-latin-america-fall-2002"
+  },
+  "course_title": "Political Economy of Latin America",
+  "course_description": "This class explores the politics of economic reform in Latin America. Topics addressed include: Dependency, Development, and Bureaucratic-Authoritarianism; The Political Consequences of Market-Oriented Reform in Venezuela; The Mexican Peso Crisis; Transitions from Authoritarian Rule in the Southern Cone; Civil-Military Relations; Limits of Democratization; Parties and Elections in Latin America; Religion, Political Mobilization, and Civil Society; and Revolution.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.554",
+  "course_image_thumbnail": {
+    "content": "4977ff15-5479-aa21-8641-9c9c886582f5",
+    "website": "17-554-political-economy-of-latin-america-fall-2002"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "e4052a32-bc4a-4325-8b63-76b55a1cc709",
+  "title": "Course Metadata"
+}
